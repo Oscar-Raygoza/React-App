@@ -1,4 +1,4 @@
-# Learning System
+# React App
 
 ### Installing
 
