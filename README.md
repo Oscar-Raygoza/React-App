@@ -1,15 +1,6 @@
-# Learning System
+# React App
 
 ### Installing
-
-first we have to clone the project from the terminal from
-
-```
-git clone https://gitlab.com/electronic-cats/learning-system.git
-```
-
-Once inside the project we must open the terminal inside the learning system folder and write
-
 ```
 npm i
 ```
