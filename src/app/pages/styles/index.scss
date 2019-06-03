@@ -1,0 +1,23 @@
+@import "./sass/global";
+body {
+  color: #fff;
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}
+.h1 {
+  transform: translate(42%, 400%);
+}
+
+.img {
+  border-radius: 50%;
+  position: absolute;
+  top: 30%;
+  left: 44%;
+  bottom: 0;
+  right: 0;
+}
